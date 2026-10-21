@@ -1,0 +1,6 @@
+{
+  "name": "Personal Expense Tracker with Insights",
+  "description": "A comprehensive personal finance and budget tracking application with OLS linear regression expense forecasting, monthly budgeting, and interactive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
